@@ -1,0 +1,14 @@
+config.json
+profile.json
+cv/*
+!cv/.gitkeep
+inbox.json
+inbox*.json
+seen*.txt
+linkedin_cookies.json
+log_*.txt
+reports/
+outreach.csv
+outreach.md
+__pycache__/
+*.bak*

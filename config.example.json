@@ -1,0 +1,13 @@
+{
+  "_ajuda": "Copie para config.json. Exemplo preenchido para QA júnior em Brasília; troque pela SUA área e cidade.",
+  "keywords": ["qa", "quality assurance", "test automation", "software tester", "quality engineer", "qa analyst", "qa engineer", "sdet", "tester"],
+  "linkedin_searches": [
+    ["QA Engineer", "Brazil"],
+    ["Analista de Testes", "Brasil"],
+    ["QA Engineer", "Worldwide"]
+  ],
+  "br_terms": ["QA", "QA Júnior", "Analista de Testes", "Automação de Testes"],
+  "en_terms": ["QA engineer", "test automation"],
+  "home_uf": "df",
+  "home_places": ["brasilia", "distrito federal"]
+}
